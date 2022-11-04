@@ -1,0 +1,47 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self' data: https://ssl.gstatic.com 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+    <meta name="color-scheme" content="light dark">
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <script src="js/trip_detail.js"></script>
+    <link rel="stylesheet" href="css/index.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <title> Trip List </title>
+</head>
+
+<body style="background-color: #abffab;" onload="onBodyLoad()">
+    <nav class="navbar navbar-expand-lg bg-light" style="position:fixed;width:100%;">
+        <svg xmlns="http://www.w3.org/2000/svg" id ="back" style="margin-left:2%;position:absolute" width="50" height="50" fill="#abffab" class="bi bi-arrow-left" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/>
+          </svg>
+        <h2 style="margin-left:auto;margin-right:auto;">M-Expense</h2>
+    </nav>
+    <div class="container">
+            <div  style="padding-top:25%;width:100%;" id="trip"
+                style="background-color:white;border-radius:5%;padding:5%;margin-bottom:2%;margin-top:5%;">
+            </div>
+        <div class="row">
+            <div class="col-6" >
+                <button type="button" id="edit" class="btn"
+                    style="width:110%;background-color:#8c73ff;border-radius:8px;color:white;padding:10%;">Edit
+                    Trip</button>
+            </div>
+            <div class="col-6">
+                <button type="button" id="delete" class="btn"
+                    style="width:100%;background-color:#ff7575;color:white;border-radius:8px;padding:10%;">Delete
+                    Trip</button>
+            </div>
+        </div>
+        <div id="result"></div>
+    </div>
+</body>
+
+</html>
