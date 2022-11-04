@@ -1,0 +1,279 @@
+
+7javascript:S1116"Unnecessary semicolon.(Åšşßüÿÿÿÿ
+vjavascript:S3776"URefactor this function to reduce its Cognitive Complexity from 764 to the 15 allowed.(Åšşßüÿÿÿÿ
+Jjavascript:S3504")Unexpected var, use let or const instead.(Ç–¡¬ûÿÿÿÿ
+Djavascript:S3504")Unexpected var, use let or const instead.(Ú«
+Ejavascript:S3504")Unexpected var, use let or const instead.(—ıÜ³
+Ejavascript:S3504")Unexpected var, use let or const instead.(¼”¾Ù
+Jjavascript:S3504")Unexpected var, use let or const instead.(ì“áûÿÿÿÿ
+Jjavascript:S3504 ")Unexpected var, use let or const instead.(£ƒÖˆüÿÿÿÿ
+Jjavascript:S3504!")Unexpected var, use let or const instead.(òõºúÿÿÿÿÿ
+Ejavascript:S3504$")Unexpected var, use let or const instead.(‰é¤
+Ejavascript:S3504%")Unexpected var, use let or const instead.(ö«ëç
+Djavascript:S3504&")Unexpected var, use let or const instead.(ƒ±§X
+Jjavascript:S35047")Unexpected var, use let or const instead.(ˆ•¼˜úÿÿÿÿ
+Mjavascript:S1117`"1'require' is already declared in the upper scope.(…ßéâ
+javascript:S1172`"eRemove the unused function parameter "exports" or rename it to "_exports" to make intention explicit.(…ßéâ
+Ejavascript:S3504h")Unexpected var, use let or const instead.(ßşğú
+Jjavascript:S3504i")Unexpected var, use let or const instead.(ÕŸ¥Øÿÿÿÿÿ
+Ejavascript:S3504o")Unexpected var, use let or const instead.(ÀÆ«¹
+Ejavascript:S3504p")Unexpected var, use let or const instead.(ãŸ°
+Jjavascript:S3504q")Unexpected var, use let or const instead.(¡¼¸ ÿÿÿÿÿ
+Jjavascript:S3504r")Unexpected var, use let or const instead.(Ñ¿ôÃÿÿÿÿÿ
+Jjavascript:S3504w")Unexpected var, use let or const instead.(İ¤Äåÿÿÿÿÿ
+Ejavascript:S3504x")Unexpected var, use let or const instead.(Ç€–Ğ
+Jjavascript:S3504{")Unexpected var, use let or const instead.(Ò™Ô¾ùÿÿÿÿ
+Kjavascript:S3504„")Unexpected var, use let or const instead.(Ò™Ô¾ùÿÿÿÿ
+Kjavascript:S3504")Unexpected var, use let or const instead.(Ò™Ô¾ùÿÿÿÿ
+Kjavascript:S3504—")Unexpected var, use let or const instead.(Ò™Ô¾ùÿÿÿÿ
+Kjavascript:S3504¡")Unexpected var, use let or const instead.(ÔÅËÿÿÿÿÿ
+Fjavascript:S3504¤")Unexpected var, use let or const instead.(í¹‘î
+Kjavascript:S3504­")Unexpected var, use let or const instead.(ÒõÚ…üÿÿÿÿ
+ijavascript:S1121¸"LExtract the assignment of "windowEventHandlers[event]" from this expression.(š†
+pjavascript:S1121»"NExtract the assignment of "documentEventHandlers[event]" from this expression.(ßÀ°Ñşÿÿÿÿ
+pjavascript:S1121¾"NExtract the assignment of "documentEventHandlers[event]" from this expression.(¼ÆÇ›øÿÿÿÿ
+Kjavascript:S3504Ş")Unexpected var, use let or const instead.(Í‹Ê½şÿÿÿÿ
+Kjavascript:S3504ñ")Unexpected var, use let or const instead.(Í‹Ê½şÿÿÿÿ
+Vjavascript:S1135š"4Complete the task associated to this "TODO" comment.(Îÿ¸£ıÿÿÿÿ
+Kjavascript:S3504¤")Unexpected var, use let or const instead.(Èˆşôıÿÿÿÿ
+Kjavascript:S3504¸")Unexpected var, use let or const instead.(˜Åä”ûÿÿÿÿ
+Njavascript:S1117Î"1'require' is already declared in the upper scope.(÷¿Ÿµ
+‚javascript:S1172Î"eRemove the unused function parameter "exports" or rename it to "_exports" to make intention explicit.(÷¿Ÿµ
+Kjavascript:S3504Ô")Unexpected var, use let or const instead.(ºÀ–éıÿÿÿÿ
+Kjavascript:S3504Õ")Unexpected var, use let or const instead.(µğ‡ıÿÿÿÿ
+‚javascript:S1172å"eRemove the unused function parameter "require" or rename it to "_require" to make intention explicit.(À¥¾ƒ
+Njavascript:S1117å"1'require' is already declared in the upper scope.(À¥¾ƒ
+‚javascript:S1172å"eRemove the unused function parameter "exports" or rename it to "_exports" to make intention explicit.(À¥¾ƒ
+Mjavascript:S1117û"1'require' is already declared in the upper scope.(ıòày
+javascript:S1172û"eRemove the unused function parameter "exports" or rename it to "_exports" to make intention explicit.(ıòày
+Fjavascript:S3504ı")Unexpected var, use let or const instead.(ğ’ŠÜ
+Kjavascript:S3504ÿ")Unexpected var, use let or const instead.(”¹Øéüÿÿÿÿ
+Fjavascript:S3504")Unexpected var, use let or const instead.(ªííì
+Kjavascript:S3504¯")Unexpected var, use let or const instead.(ÒúŠªúÿÿÿÿ
+Kjavascript:S3504°")Unexpected var, use let or const instead.(Ñğÿÿÿÿÿ
+Fjavascript:S3504±")Unexpected var, use let or const instead.(£Í€·
+tjavascript:S2392±"WConsider moving declaration of 'i' as it is referenced outside current binding context.(£Í€·
+Fjavascript:S3504²")Unexpected var, use let or const instead.(ÕŞ¥
+Kjavascript:S3504³")Unexpected var, use let or const instead.(„†—”ÿÿÿÿÿ
+Kjavascript:S3504´")Unexpected var, use let or const instead.(ĞâÊùùÿÿÿÿ
+‡javascript:S1172Ø"eRemove the unused function parameter "require" or rename it to "_require" to make intention explicit.(…ßÚÄøÿÿÿÿ
+Sjavascript:S1117Ø"1'require' is already declared in the upper scope.(…ßÚÄøÿÿÿÿ
+…javascript:S1172Ø"cRemove the unused function parameter "module" or rename it to "_module" to make intention explicit.(…ßÚÄøÿÿÿÿ
+Kjavascript:S3504Ú")Unexpected var, use let or const instead.(…úÉ¼øÿÿÿÿ
+Kjavascript:S3504İ")Unexpected var, use let or const instead.(ã©ûúÿÿÿÿ
+Kjavascript:S3504â")Unexpected var, use let or const instead.(ÙşŞ‰øÿÿÿÿ
+Kjavascript:S3504ã")Unexpected var, use let or const instead.(«¤Áºşÿÿÿÿ
+Kjavascript:S3504ä")Unexpected var, use let or const instead.(ã©ûúÿÿÿÿ
+Fjavascript:S3504å")Unexpected var, use let or const instead.(ùäÛÕ
+Kjavascript:S3504ò")Unexpected var, use let or const instead.(Í•Û˜øÿÿÿÿ
+Fjavascript:S3504ó")Unexpected var, use let or const instead.(¾ÏŞø
+Kjavascript:S3504õ")Unexpected var, use let or const instead.(†‘ÿÍüÿÿÿÿ
+Kjavascript:S3504÷")Unexpected var, use let or const instead.(í£úÈùÿÿÿÿ
+Kjavascript:S3504ø")Unexpected var, use let or const instead.(èˆœ™úÿÿÿÿ
+Fjavascript:S3504")Unexpected var, use let or const instead.(Úüº±
+Kjavascript:S3504‚")Unexpected var, use let or const instead.(ë’§Ïûÿÿÿÿ
+Kjavascript:S3504ƒ")Unexpected var, use let or const instead.(£€•¢üÿÿÿÿ
+Kjavascript:S3504„")Unexpected var, use let or const instead.(°›õŠÿÿÿÿÿ
+Kjavascript:S3504…")Unexpected var, use let or const instead.(²¡•Âøÿÿÿÿ
+yjavascript:S2392…"WConsider moving declaration of 'i' as it is referenced outside current binding context.(²¡•Âøÿÿÿÿ
+Sjavascript:S1117š"1'require' is already declared in the upper scope.(Æá™©ùÿÿÿÿ
+…javascript:S1172š"cRemove the unused function parameter "module" or rename it to "_module" to make intention explicit.(Æá™©ùÿÿÿÿ
+Fjavascript:S3504œ")Unexpected var, use let or const instead.(ğ’ŠÜ
+Kjavascript:S3504Ÿ")Unexpected var, use let or const instead.(‰ÊÊÔúÿÿÿÿ
+Ejavascript:S3504§")Unexpected var, use let or const instead.(¯øå
+Njavascript:S1117Â"1'clobber' is already declared in the upper scope.(›¨óÎ
+Fjavascript:S3504Å")Unexpected var, use let or const instead.(ÇÛÎ®
+Fjavascript:S3504ï")Unexpected var, use let or const instead.(¶—ŸŒ
+Sjavascript:S1117"1'require' is already declared in the upper scope.(¬°†øøÿÿÿÿ
+‡javascript:S1172"eRemove the unused function parameter "exports" or rename it to "_exports" to make intention explicit.(¬°†øøÿÿÿÿ
+Fjavascript:S3504")Unexpected var, use let or const instead.(ğ’ŠÜ
+Kjavascript:S3504‘")Unexpected var, use let or const instead.(™’³ïûÿÿÿÿ
+Kjavascript:S3504¹")Unexpected var, use let or const instead.(¥ªÁûÿÿÿÿ
+Kjavascript:S3504Ç")Unexpected var, use let or const instead.(±¢Ö†úÿÿÿÿ
+Fjavascript:S3504Í")Unexpected var, use let or const instead.(‡ïˆƒ
+Kjavascript:S3504Î")Unexpected var, use let or const instead.(Œ²¸Óùÿÿÿÿ
+Kjavascript:S3504Ï")Unexpected var, use let or const instead.(²ÌœÜüÿÿÿÿ
+Fjavascript:S3504Ò")Unexpected var, use let or const instead.(±Â…Í
+ajavascript:S1121Ü"?Extract the assignment of "channel[type]" from this expression.(ƒçùüıÿÿÿÿ
+\javascript:S1121ß"?Extract the assignment of "channel[type]" from this expression.(Õİê
+Fjavascript:S3504ñ")Unexpected var, use let or const instead.(¥®˜ï
+Fjavascript:S3504ı")Unexpected var, use let or const instead.(èß“ù
+Fjavascript:S3504–")Unexpected var, use let or const instead.(¦£´…
+Fjavascript:S3504Á")Unexpected var, use let or const instead.(Å¨¨Î
+Fjavascript:S3504Ú")Unexpected var, use let or const instead.(–¾œï
+Kjavascript:S3504ã")Unexpected var, use let or const instead.(Ìãıüÿÿÿÿ
+Ejavascript:S3504ä")Unexpected var, use let or const instead.(úáåb
+ijavascript:S4138ç"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ó­¤Î
+Fjavascript:S3504ç")Unexpected var, use let or const instead.(Ó­¤Î
+ajavascript:S1134ş"DTake the required action to fix the issue indicated by this comment.(ø»»™
+Sjavascript:S1117“"1'require' is already declared in the upper scope.(ëˆ–òúÿÿÿÿ
+‡javascript:S1172“"eRemove the unused function parameter "exports" or rename it to "_exports" to make intention explicit.(ëˆ–òúÿÿÿÿ
+Kjavascript:S3504£")Unexpected var, use let or const instead.(½„Ïæûÿÿÿÿ
+Fjavascript:S3504¤")Unexpected var, use let or const instead.(ß›§Ì
+Fjavascript:S3504¥")Unexpected var, use let or const instead.(ğ’ŠÜ
+Kjavascript:S3504¦")Unexpected var, use let or const instead.(ú°´–øÿÿÿÿ
+Fjavascript:S3504§")Unexpected var, use let or const instead.(ßşğú
+Kjavascript:S3504¨")Unexpected var, use let or const instead.(”î®§ÿÿÿÿÿ
+Kjavascript:S3504¬")Unexpected var, use let or const instead.(äº èøÿÿÿÿ
+Kjavascript:S3504¸")Unexpected var, use let or const instead.(À¿¤Ëÿÿÿÿÿ
+Fjavascript:S3504¹")Unexpected var, use let or const instead.(Ö“ØÁ
+Fjavascript:S3504º")Unexpected var, use let or const instead.(¬–šõ
+Fjavascript:S3504»")Unexpected var, use let or const instead.(ãóâ…
+Kjavascript:S3504½")Unexpected var, use let or const instead.(„éÓùÿÿÿÿ
+Kjavascript:S3504¾")Unexpected var, use let or const instead.(ĞéŠğøÿÿÿÿ
+Kjavascript:S3504¿")Unexpected var, use let or const instead.(³²ì¬øÿÿÿÿ
+Kjavascript:S3504À")Unexpected var, use let or const instead.(–¥çÛûÿÿÿÿ
+Fjavascript:S3504Ô")Unexpected var, use let or const instead.(´şØá
+Ejavascript:S3504Ú")Unexpected var, use let or const instead.(¾­9
+Fjavascript:S3504Û")Unexpected var, use let or const instead.(Ô¥®Ø
+Kjavascript:S3504à")Unexpected var, use let or const instead.(Æ³ÛËşÿÿÿÿ
+Ejavascript:S3504ı")Unexpected var, use let or const instead.(ôñ¹
+Fjavascript:S3504¿")Unexpected var, use let or const instead.(çı¬ 
+Fjavascript:S3504Ë")Unexpected var, use let or const instead.(äÿ†Û
+Kjavascript:S3504Ğ")Unexpected var, use let or const instead.(£½™üÿÿÿÿ
+Fjavascript:S3504Ò")Unexpected var, use let or const instead.(€”ş„
+Fjavascript:S3504Ó")Unexpected var, use let or const instead.(ÕÅ
+Kjavascript:S3504Ô")Unexpected var, use let or const instead.(™˜ææùÿÿÿÿ
+Kjavascript:S3504ß")Unexpected var, use let or const instead.(û¾Õœøÿÿÿÿ
+Fjavascript:S3504å")Unexpected var, use let or const instead.(Å‰ç
+Kjavascript:S3504æ")Unexpected var, use let or const instead.(¤£İ•ûÿÿÿÿ
+Fjavascript:S3504ç")Unexpected var, use let or const instead.(£™Îš
+Kjavascript:S3504è")Unexpected var, use let or const instead.(«ØŒúÿÿÿÿ
+Kjavascript:S3504é")Unexpected var, use let or const instead.(™ç×ıÿÿÿÿ
+Kjavascript:S3504ê")Unexpected var, use let or const instead.(¬„ˆùÿÿÿÿ
+Kjavascript:S3504ë")Unexpected var, use let or const instead.(„Èóÿÿÿÿÿ
+Fjavascript:S3504ì")Unexpected var, use let or const instead.(¾‘”Û
+Fjavascript:S3504ş")Unexpected var, use let or const instead.(Òàãğ
+Fjavascript:S3504	")Unexpected var, use let or const instead.(œÊË„
+Fjavascript:S3504”	")Unexpected var, use let or const instead.(‡Ñ²Â
+Kjavascript:S3504•	")Unexpected var, use let or const instead.(™ê¥ğıÿÿÿÿ
+Fjavascript:S3504–	")Unexpected var, use let or const instead.(õı¨ø
+‡javascript:S1172£	"eRemove the unused function parameter "require" or rename it to "_require" to make intention explicit.(Àƒâ‹øÿÿÿÿ
+Sjavascript:S1117£	"1'require' is already declared in the upper scope.(Àƒâ‹øÿÿÿÿ
+‡javascript:S1172£	"eRemove the unused function parameter "exports" or rename it to "_exports" to make intention explicit.(Àƒâ‹øÿÿÿÿ
+Fjavascript:S3504¦	")Unexpected var, use let or const instead.(¹ë¦À
+;javascript:S125±	"Remove this commented out code.(ê¸’
+Fjavascript:S3504³	")Unexpected var, use let or const instead.(”ƒ†Ç
+Njavascript:S1117Á	"1'require' is already declared in the upper scope.(ÈöÛ
+‚javascript:S1172Á	"eRemove the unused function parameter "exports" or rename it to "_exports" to make intention explicit.(ÈöÛ
+€javascript:S1172Á	"cRemove the unused function parameter "module" or rename it to "_module" to make intention explicit.(ÈöÛ
+Fjavascript:S3504Ã	")Unexpected var, use let or const instead.(ßşğú
+Kjavascript:S3504Ä	")Unexpected var, use let or const instead.(½„Ïæûÿÿÿÿ
+Kjavascript:S3504Å	")Unexpected var, use let or const instead.(ÿÊÿÿÿÿÿÿ
+Kjavascript:S3504Æ	")Unexpected var, use let or const instead.(ÕŸ¥Øÿÿÿÿÿ
+Kjavascript:S3504Ç	")Unexpected var, use let or const instead.(“…ò¶üÿÿÿÿ
+Fjavascript:S3504É	")Unexpected var, use let or const instead.(¸²
+ijavascript:S4138Ì	"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¡ˆÄ
+Fjavascript:S3504Ì	")Unexpected var, use let or const instead.(¡ˆÄ
+@javascript:S1186İ	"Unexpected empty method 'log'.(Î¹şÿÿÿÿÿ
+Njavascript:S1117¡
+"1'require' is already declared in the upper scope.(Î¤‚å
+€javascript:S1172¡
+"cRemove the unused function parameter "module" or rename it to "_module" to make intention explicit.(Î¤‚å
+Kjavascript:S3504£
+")Unexpected var, use let or const instead.(­âÒçÿÿÿÿÿ
+Kjavascript:S3504¤
+")Unexpected var, use let or const instead.(Ùß¬×ÿÿÿÿÿ
+Kjavascript:S3504¥
+")Unexpected var, use let or const instead.(ˆöºÌÿÿÿÿÿ
+Kjavascript:S3504¦
+")Unexpected var, use let or const instead.(û‘ÜÑıÿÿÿÿ
+Wjavascript:S1121Í
+";Extract the assignment of "cur[part]" from this expression.(Ó¶çw
+Fjavascript:S3504Ò
+")Unexpected var, use let or const instead.(İ’†À
+Kjavascript:S3504Ô
+")Unexpected var, use let or const instead.(Ü×şúıÿÿÿÿ
+Fjavascript:S3504Õ
+")Unexpected var, use let or const instead.(×¶õÀ
+Kjavascript:S3504Ö
+")Unexpected var, use let or const instead.(ÙÆÖüÿÿÿÿ
+Fjavascript:S3504×
+")Unexpected var, use let or const instead.(å¸Ş›
+Mjavascript:S1117×
+"0'module' is already declared in the upper scope.(å¸Ş›
+Kjavascript:S3504Ü
+")Unexpected var, use let or const instead.(¼—™‰üÿÿÿÿ
+Kjavascript:S3504İ
+")Unexpected var, use let or const instead.(ÛÕ—ıûÿÿÿÿ
+Fjavascript:S3504Ş
+")Unexpected var, use let or const instead.(›ãĞê
+Fjavascript:S3504ß
+")Unexpected var, use let or const instead.(ƒíä
+Fjavascript:S3504á
+")Unexpected var, use let or const instead.(Ù› ˜
+Kjavascript:S3504â
+")Unexpected var, use let or const instead.(Èâğãÿÿÿÿÿ
+Fjavascript:S3504ã
+")Unexpected var, use let or const instead.(å“¨ß
+Kjavascript:S3504ñ
+")Unexpected var, use let or const instead.(£ÖÇüÿÿÿÿ
+Kjavascript:S3504õ
+")Unexpected var, use let or const instead.(ôø¶£ûÿÿÿÿ
+Fjavascript:S3504ö
+")Unexpected var, use let or const instead.(êÒø¬
+njavascript:S4138÷
+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÌşŞÁıÿÿÿÿ
+Kjavascript:S3504÷
+")Unexpected var, use let or const instead.(ÌşŞÁıÿÿÿÿ
+Sjavascript:S1117‚"1'require' is already declared in the upper scope.(º¨˜şÿÿÿÿ
+‡javascript:S1172‚"eRemove the unused function parameter "exports" or rename it to "_exports" to make intention explicit.(º¨˜şÿÿÿÿ
+Kjavascript:S3504…")Unexpected var, use let or const instead.(‰´Á‰úÿÿÿÿ
+Fjavascript:S3504Š")Unexpected var, use let or const instead.(ßşğú
+Kjavascript:S3504‹")Unexpected var, use let or const instead.(½„Ïæûÿÿÿÿ
+Fjavascript:S3504Œ")Unexpected var, use let or const instead.(¨€ü§
+Kjavascript:S3504")Unexpected var, use let or const instead.(ÿÊÿÿÿÿÿÿ
+Vjavascript:S1135’"4Complete the task associated to this "TODO" comment.(— ‚Öùÿÿÿÿ
+Fjavascript:S3504•")Unexpected var, use let or const instead.(âşşû
+Kjavascript:S3504˜")Unexpected var, use let or const instead.(«£ÿœüÿÿÿÿ
+Kjavascript:S3504¥")Unexpected var, use let or const instead.(Ë‚çûÿÿÿÿ
+Fjavascript:S3504±")Unexpected var, use let or const instead.(¾ê„¢
+Kjavascript:S3504Å")Unexpected var, use let or const instead.(½„Ïæûÿÿÿÿ
+Fjavascript:S3504Æ")Unexpected var, use let or const instead.(¶ô€è
+Kjavascript:S3504Ø")Unexpected var, use let or const instead.(şŞó¨ùÿÿÿÿ
+Fjavascript:S3504Ù")Unexpected var, use let or const instead.(ÓÀà¡
+Njavascript:S1117í"1'require' is already declared in the upper scope.(àÎÕş
+‚javascript:S1172í"eRemove the unused function parameter "exports" or rename it to "_exports" to make intention explicit.(àÎÕş
+Fjavascript:S3504ï")Unexpected var, use let or const instead.(¨€ü§
+Fjavascript:S3504ğ")Unexpected var, use let or const instead.(Ï÷í”
+Njavascript:S1117Ê"1'require' is already declared in the upper scope.(õÄï¡
+€javascript:S1172Ê"cRemove the unused function parameter "module" or rename it to "_module" to make intention explicit.(õÄï¡
+Kjavascript:S3504Ì")Unexpected var, use let or const instead.(ÿÊÿÿÿÿÿÿ
+Kjavascript:S3504Ñ")Unexpected var, use let or const instead.(‰Õ°Ëÿÿÿÿÿ
+Kjavascript:S3504ë")Unexpected var, use let or const instead.(­ÃØÿÿÿÿÿ
+Rjavascript:S1117ë"0'module' is already declared in the upper scope.(­ÃØÿÿÿÿÿ
+Zjavascript:S1121ë"8Extract the assignment of "module" from this expression.(­ÃØÿÿÿÿÿ
+njavascript:S4138í"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÅÂ€Åúÿÿÿÿ
+Kjavascript:S3504í")Unexpected var, use let or const instead.(ÅÂ€Åúÿÿÿÿ
+ijavascript:S4138ó"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(„ÓÌ
+Fjavascript:S3504ó")Unexpected var, use let or const instead.(„ÓÌ
+Kjavascript:S3504‡")Unexpected var, use let or const instead.(ı¨ô‘üÿÿÿÿ
+njavascript:S4138“"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(œ´„Şøÿÿÿÿ
+Kjavascript:S3504“")Unexpected var, use let or const instead.(œ´„Şøÿÿÿÿ
+Fjavascript:S3504™")Unexpected var, use let or const instead.(¦İ»
+Kjavascript:S3504š")Unexpected var, use let or const instead.(ô»ÚÏüÿÿÿÿ
+Kjavascript:S3504›")Unexpected var, use let or const instead.(¦’ ûÿÿÿÿ
+Kjavascript:S3504œ")Unexpected var, use let or const instead.(¦ä¯Øşÿÿÿÿ
+Kjavascript:S3504")Unexpected var, use let or const instead.(Òƒ“Ïüÿÿÿÿ
+Kjavascript:S3504ª")Unexpected var, use let or const instead.(Š‚’×ûÿÿÿÿ
+Fjavascript:S3504°")Unexpected var, use let or const instead.(µŸÄÜ
+‡javascript:S1172¸"eRemove the unused function parameter "require" or rename it to "_require" to make intention explicit.(¥Ïöùÿÿÿÿ
+Sjavascript:S1117¸"1'require' is already declared in the upper scope.(¥Ïöùÿÿÿÿ
+…javascript:S1172¸"cRemove the unused function parameter "module" or rename it to "_module" to make intention explicit.(¥Ïöùÿÿÿÿ
+Kjavascript:S3504¿")Unexpected var, use let or const instead.( íÛ²şÿÿÿÿ
+‚javascript:S1172Ç"eRemove the unused function parameter "require" or rename it to "_require" to make intention explicit.(°ïüâ
+Njavascript:S1117Ç"1'require' is already declared in the upper scope.(°ïüâ
+€javascript:S1172Ç"cRemove the unused function parameter "module" or rename it to "_module" to make intention explicit.(°ïüâ
+Fjavascript:S3504É")Unexpected var, use let or const instead.(Á¥â°
+Kjavascript:S3504Ğ")Unexpected var, use let or const instead.(¶¬É€ıÿÿÿÿ
+Kjavascript:S3504é")Unexpected var, use let or const instead.(ûÍÓ¥üÿÿÿÿ
+Fjavascript:S3504ê")Unexpected var, use let or const instead.(õØÀ¼
+Fjavascript:S3504ö")Unexpected var, use let or const instead.(®îñö
+Kjavascript:S3504–")Unexpected var, use let or const instead.(´éÓÆøÿÿÿÿ
+Bjavascript:S4125¦" Invalid typeof comparison value.(²ÉÔüÿÿÿÿ
+Fjavascript:S3504²")Unexpected var, use let or const instead.(Æë‹
+Fjavascript:S3504¹")Unexpected var, use let or const instead.(×³€
+Kjavascript:S3504º")Unexpected var, use let or const instead.(‚£Å˜üÿÿÿÿ
+Kjavascript:S3504»")Unexpected var, use let or const instead.(Ö¦ìúøÿÿÿÿ
+Fjavascript:S3504Õ")Unexpected var, use let or const instead.(ê¹–À
+7javascript:S1186Õ"Unexpected empty function.(ê¹–À

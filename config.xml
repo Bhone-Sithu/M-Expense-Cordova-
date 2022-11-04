@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.mexpense" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>M-Expense</name>
+    <description>Cordova app for managing trip expenses for employees</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <content src="loading_screen.html" />
+    <platform name="android">
+        <!--
+            ldpi    : 36x36 px
+            mdpi    : 48x48 px
+            hdpi    : 72x72 px
+            xhdpi   : 96x96 px
+            xxhdpi  : 144x144 px
+            xxxhdpi : 192x192 px
+        -->
+        <icon src="M-Expense_logo.png" density="ldpi" />
+        <icon src="M-Expense_logo.png" density="mdpi" />
+        <icon src="M-Expense_logo.png" density="hdpi" />
+        <icon src="M-Expense_logo.png" density="xhdpi" />
+        <icon src="M-Expense_logo.png" density="xxhdpi" />
+        <icon src="M-Expense_logo.png" density="xxxhdpi" />
+    </platform>
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>

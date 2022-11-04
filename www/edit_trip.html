@@ -1,0 +1,99 @@
+<html>
+<head>
+    <meta charset="utf-8">
+
+<!--    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: https://ssl.gstatic.com 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">-->
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+    <meta name="color-scheme" content="light dark">
+
+    <link rel="stylesheet" href="css/index.css">
+    <script src="js/jquery-2.2.4.min.js"></script>
+
+    <script charset="utf-8" src="js/edit_trip.js" type="text/javascript"></script>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <title> Edit Trip </title>
+</head>
+<body style="background-color: #abffab;" onload="onBodyLoad()">
+<nav class="navbar navbar-expand-lg bg-light">
+    <svg xmlns="http://www.w3.org/2000/svg" id ="back" style="margin-left:2%;position:absolute" width="50" height="50" fill="#abffab" class="bi bi-arrow-left" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/>
+      </svg>
+    <h2 style="margin-left:auto;margin-right:auto;">M-Expense</h2>
+</nav>
+<div class="container" style="background-color:white;border-radius:5%;margin-right:10%;margin-top:15%;padding:10%;margin-bottom:15%;">
+    <form class="needs-validation" novalidate>
+        <center><h3>Enter Trip Details</h3></center>
+        <div class=" mb-3 has-validation">
+            <label for="name">Trip Name</label>
+            <input type="text" class="form-control" id="name" required>
+            <div class="invalid-feedback">
+                Please enter Trip Name
+            </div>
+        </div>
+        <br>
+        <div class=" mb-3">
+            <label for="destination">Destination</label>
+            <input type="text" class="form-control" id="destination" required>
+            <div class="invalid-feedback">
+                Please enter Destination
+            </div>
+        </div>
+        <br>
+        <div class=" mb-3">
+
+            <label for="date">Departure Date</label>
+            <input type="date" class="form-control" id="departure_date" required>
+            <div class="invalid-feedback">
+                Please select Departure Date
+            </div>
+        </div>
+        <br>
+        <div class=" mb-3">
+
+            <label for="date">Arrival Date (arrived date back from trip)</label>
+            <input type="date" class="form-control" id="arrival_date" required>
+            <div class="invalid-feedback">
+                Please select Arrival Date
+            </div>
+        </div>
+        <br>
+        <label>Is Risk Assement required?</label>
+        <br>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="radio" id="radio_yes" value=true required>
+            <label class="form-check-label" for="radio_yes">
+                Yes
+            </label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="radio" id="radio_no" value=false required>
+            <label class="form-check-label" for="radio_no">
+                No
+            </label>
+        </div>
+        <br><br>
+        <div class=" mb-3">
+            <label for="destination">Budget (from employer)</label>
+            <input type="number" class="form-control" id="budget" min=0 required>
+            <div class="invalid-feedback">
+                Please enter budget amount
+            </div>
+        </div>
+        <div class="">.
+            <label for="description">Descriptions (Optional)</label>
+            <textarea class="form-control" placeholder="" id="description"></textarea>
+
+        </div>
+        <br>
+        <button type="button" id="edit" class="btn " style = "width:100%;background-color:#abffab;border-radius:10px;">Edit Trip</button>
+    </form>
+    
+</div>
+
+</body>
+</html>

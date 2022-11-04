@@ -1,0 +1,12 @@
+
+^javascript:S1854"6Remove this useless assignment to variable "is_valid".(Žï¿âøÿÿÿÿ8§’‰ï¿0
+^javascript:S1854"6Remove this useless assignment to variable "is_valid".(Žï¿âøÿÿÿÿ8¨’‰ï¿0
+^javascript:S1854"6Remove this useless assignment to variable "is_valid".(Žï¿âøÿÿÿÿ8©’‰ï¿0
+^javascript:S1854""6Remove this useless assignment to variable "is_valid".(Žï¿âøÿÿÿÿ8ª’‰ï¿0
+^javascript:S1854)"6Remove this useless assignment to variable "is_valid".(Žï¿âøÿÿÿÿ8ª’‰ï¿0
+_javascript:S1121+"7Extract the assignment of "radio" from this expression.(€¨Ü¦þÿÿÿÿ8«’‰ï¿0
+_javascript:S1121+"7Extract the assignment of "radio" from this expression.(€¨Ü¦þÿÿÿÿ8«’‰ï¿0
+^javascript:S18540"6Remove this useless assignment to variable "is_valid".(Žï¿âøÿÿÿÿ8¬’‰ï¿0
+ƒjavascript:S11729"[Remove the unused function parameter "tx" or rename it to "_tx" to make intention explicit.(Œ‘¯Òüÿÿÿÿ8Ö’‰ï¿0
+Tjavascript:S11179",'tx' is already declared in the upper scope.(Œ‘¯Òüÿÿÿÿ8Ö’‰ï¿0
+…javascript:S11729"]Remove the unused function parameter "res" or rename it to "_res" to make intention explicit.(Œ‘¯Òüÿÿÿÿ8×’‰ï¿0

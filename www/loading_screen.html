@@ -1,0 +1,34 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self' data: https://ssl.gstatic.com 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+    <meta name="color-scheme" content="light dark">
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <script src="js/loading.js"></script>
+    <link rel="stylesheet" href="css/index.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <title> Loading Screen </title>
+</head>
+
+<body style="background-color: #abffab;" onload="onBodyLoad()">
+    <div style="margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);">
+        <video autoplay muted width="500" height="250" preload="auto">
+            <source src="img/M-Expense_loading.mp4" type="video/mp4">
+        </video>
+    </div>
+</body>
+
+
+</html>
